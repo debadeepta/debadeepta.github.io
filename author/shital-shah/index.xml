@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shital Shah | Debadeepta Dey</title>
+    <link>https://debadeepta.github.io/author/shital-shah/</link>
+      <atom:link href="https://debadeepta.github.io/author/shital-shah/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shital Shah</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Debadeepta Dey 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://debadeepta.github.io/img/headshot.jpg</url>
+      <title>Shital Shah</title>
+      <link>https://debadeepta.github.io/author/shital-shah/</link>
+    </image>
+    
+    <item>
+      <title>Airsim-w: A simulation environment for wildlife conservation with uavs</title>
+      <link>https://debadeepta.github.io/publication/bondi-2018-airsim/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/bondi-2018-airsim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Near Real-Time Detection of Poachers from Drones in AirSim.</title>
+      <link>https://debadeepta.github.io/publication/bondi-2018-near/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/bondi-2018-near/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Airsim: High-fidelity visual and physical simulation for autonomous vehicles</title>
+      <link>https://debadeepta.github.io/publication/shah-2017-airsim/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/shah-2017-airsim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Submodular trajectory optimization for aerial 3d scanning</title>
+      <link>https://debadeepta.github.io/publication/roberts-2017-submodular/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/roberts-2017-submodular/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Debadeepta Dey</title>
+    <link>https://debadeepta.github.io/author/</link>
+      <atom:link href="https://debadeepta.github.io/author/index.xml" rel="self" type="application/rss+xml" />
+    <description>Debadeepta Dey</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Debadeepta Dey 2020</copyright>
+    <image>
+      <url>https://debadeepta.github.io/img/headshot.jpg</url>
+      <title>Debadeepta Dey</title>
+      <link>https://debadeepta.github.io/author/</link>
+    </image>
+    
+  </channel>
+</rss>
+le>No-regret replanning under uncertainty</title>
+      <link>https://debadeepta.github.io/publication/sun-2017-no/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/sun-2017-no/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safety-aware algorithms for adversarial contextual bandit</title>
+      <link>https://debadeepta.github.io/publication/sun-2017-safety/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/sun-2017-safety/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

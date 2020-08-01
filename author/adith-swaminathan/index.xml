@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adith Swaminathan | Debadeepta Dey</title>
+    <link>https://debadeepta.github.io/author/adith-swaminathan/</link>
+      <atom:link href="https://debadeepta.github.io/author/adith-swaminathan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Adith Swaminathan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Debadeepta Dey 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://debadeepta.github.io/img/headshot.jpg</url>
+      <title>Adith Swaminathan</title>
+      <link>https://debadeepta.github.io/author/adith-swaminathan/</link>
+    </image>
+    
+    <item>
+      <title>Metareasoning in Modular Software Systems: On-the-Fly Configuration using Reinforcement Learning with Rich Contextual Representations</title>
+      <link>https://debadeepta.github.io/publication/modi-2019-metareasoning/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/modi-2019-metareasoning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

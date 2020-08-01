@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John Langford | Debadeepta Dey</title>
+    <link>https://debadeepta.github.io/author/john-langford/</link>
+      <atom:link href="https://debadeepta.github.io/author/john-langford/index.xml" rel="self" type="application/rss+xml" />
+    <description>John Langford</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Debadeepta Dey 2020</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://debadeepta.github.io/img/headshot.jpg</url>
+      <title>John Langford</title>
+      <link>https://debadeepta.github.io/author/john-langford/</link>
+    </image>
+    
+    <item>
+      <title>Efficient forward architecture search</title>
+      <link>https://debadeepta.github.io/publication/hu-2019-efficient/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/hu-2019-efficient/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

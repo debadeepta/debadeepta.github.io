@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Debadeepta Dey</title>
+    <link>https://debadeepta.github.io/publication-type/1/</link>
+      <atom:link href="https://debadeepta.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Debadeepta Dey 2020</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://debadeepta.github.io/img/headshot.jpg</url>
+      <title>1</title>
+      <link>https://debadeepta.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>A Recipe for Creating Multimodal Aligned Datasets for Sequential Tasks</title>
+      <link>https://debadeepta.github.io/publication/lin-2020-recipe/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/lin-2020-recipe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metareasoning in Modular Software Systems: On-the-Fly Configuration using Reinforcement Learning with Rich Contextual Representations</title>
+      <link>https://debadeepta.github.io/publication/modi-2019-metareasoning/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/modi-2019-metareasoning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient forward architecture search</title>
+      <link>https://debadeepta.github.io/publication/hu-2019-efficient/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/hu-2019-efficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anytime neural networks via joint optimization of auxiliary losses</title>
+      <link>https://debadeepta.github.io/publication/hu-2017-anytime/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/hu-2017-anytime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overcoming blind spots in the real world: Leveraging complementary abilities for joint execution</title>
+      <link>https://debadeepta.github.io/publication/ramakrishnan-2019-overcoming/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/ramakrishnan-2019-overcoming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vision-based Navigation with Language-based Assistance via Imitation Learning with Indirect Intervention</title>
+      <link>https://debadeepta.github.io/publication/nguyen-2018-vision/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/nguyen-2018-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Airsim-w: A simulation environment for wildlife conservation with uavs</title>
+      <link>https://debadeepta.github.io/publication/bondi-2018-airsim/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/bondi-2018-airsim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovering blind spots in reinforcement learning</title>
+      <link>https://debadeepta.github.io/publication/ramakrishnan-2018-discovering/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/ramakrishnan-2018-discovering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learn-to-score: Efficient 3d scene exploration by predicting view utility</title>
+      <link>https://debadeepta.github.io/publication/hepp-2018-learn/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/hepp-2018-learn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Near Real-Time Detection of Poachers from Drones in AirSim.</title>
+      <link>https://debadeepta.github.io/publication/bondi-2018-near/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/bondi-2018-near/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive information gathering via imitation learning</title>
+      <link>https://debadeepta.github.io/publication/choudhury-2017-adaptive/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/choudhury-2017-adaptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Airsim: High-fidelity visual and physical simulation for autonomous vehicles</title>
+      <link>https://debadeepta.github.io/publication/shah-2017-airsim/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/shah-2017-airsim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flight dynamics-based recovery of a UAV trajectory using ground cameras</title>
+      <link>https://debadeepta.github.io/publication/rozantsev-2017-flight/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/rozantsev-2017-flight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to gather information via imitation</title>
+      <link>https://debadeepta.github.io/publication/choudhury-2017-learning/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/choudhury-2017-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>No-regret replanning under uncertainty</title>
+      <link>https://debadeepta.github.io/publication/sun-2017-no/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/sun-2017-no/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safety-aware algorithms for adversarial contextual bandit</title>
+      <link>https://debadeepta.github.io/publication/sun-2017-safety/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/sun-2017-safety/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Submodular trajectory optimization for aerial 3d scanning</title>
+      <link>https://debadeepta.github.io/publication/roberts-2017-submodular/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/roberts-2017-submodular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vision and learning for deliberative monocular cluttered flight</title>
+      <link>https://debadeepta.github.io/publication/dey-2016-vision/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/dey-2016-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting multiple structured visual interpretations</title>
+      <link>https://debadeepta.github.io/publication/dey-2015-predicting/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/dey-2015-predicting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gauss Meets Canadian Traveler: Shortest-Path Problems  with Correlated Natural Dynamics</title>
+      <link>https://debadeepta.github.io/publication/debadeepta-2014-gauss/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/debadeepta-2014-gauss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knapsack constrained contextual submodular list prediction with application to multi-document summarization</title>
+      <link>https://debadeepta.github.io/publication/ross-2013-scp/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/ross-2013-scp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning monocular reactive uav control in cluttered natural environments</title>
+      <link>https://debadeepta.github.io/publication/ross-2013-learning/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/ross-2013-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification of plant structures from uncalibrated image sequences</title>
+      <link>https://debadeepta.github.io/publication/dey-2012-classification/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/dey-2012-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contextual Sequence Prediction with Application to Control Library Optimization</title>
+      <link>https://debadeepta.github.io/publication/deycontextual/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/deycontextual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Optimization of Control Libraries</title>
+      <link>https://debadeepta.github.io/publication/dey-2011-efficient/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/dey-2011-efficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Passive, long-range detection of aircraft: towards a field deployable sense and avoid system</title>
+      <link>https://debadeepta.github.io/publication/dey-2010-passive/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/dey-2010-passive/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

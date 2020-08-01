@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J Andrew Bagnell | Debadeepta Dey</title>
+    <link>https://debadeepta.github.io/author/j-andrew-bagnell/</link>
+      <atom:link href="https://debadeepta.github.io/author/j-andrew-bagnell/index.xml" rel="self" type="application/rss+xml" />
+    <description>J Andrew Bagnell</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Debadeepta Dey 2020</copyright><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://debadeepta.github.io/img/headshot.jpg</url>
+      <title>J Andrew Bagnell</title>
+      <link>https://debadeepta.github.io/author/j-andrew-bagnell/</link>
+    </image>
+    
+    <item>
+      <title>Anytime neural networks via joint optimization of auxiliary losses</title>
+      <link>https://debadeepta.github.io/publication/hu-2017-anytime/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/hu-2017-anytime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vision and learning for deliberative monocular cluttered flight</title>
+      <link>https://debadeepta.github.io/publication/dey-2016-vision/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/dey-2016-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting multiple structured visual interpretations</title>
+      <link>https://debadeepta.github.io/publication/dey-2015-predicting/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/dey-2015-predicting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knapsack constrained contextual submodular list prediction with application to multi-document summarization</title>
+      <link>https://debadeepta.github.io/publication/ross-2013-scp/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/ross-2013-scp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning monocular reactive uav control in cluttered natural environments</title>
+      <link>https://debadeepta.github.io/publication/ross-2013-learning/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/ross-2013-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contextual Sequence Prediction with Application to Control Library Optimization</title>
+      <link>https://debadeepta.github.io/publication/deycontextual/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/deycontextual/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

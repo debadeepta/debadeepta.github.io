@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christopher Geyer | Debadeepta Dey</title>
+    <link>https://debadeepta.github.io/author/christopher-geyer/</link>
+      <atom:link href="https://debadeepta.github.io/author/christopher-geyer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christopher Geyer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Debadeepta Dey 2020</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://debadeepta.github.io/img/headshot.jpg</url>
+      <title>Christopher Geyer</title>
+      <link>https://debadeepta.github.io/author/christopher-geyer/</link>
+    </image>
+    
+    <item>
+      <title>A cascaded method to detect aircraft in video imagery</title>
+      <link>https://debadeepta.github.io/publication/dey-2011-cascaded/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/dey-2011-cascaded/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Passive, long-range detection of aircraft: towards a field deployable sense and avoid system</title>
+      <link>https://debadeepta.github.io/publication/dey-2010-passive/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/dey-2010-passive/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

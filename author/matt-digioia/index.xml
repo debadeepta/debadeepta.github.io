@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matt Digioia | Debadeepta Dey</title>
+    <link>https://debadeepta.github.io/author/matt-digioia/</link>
+      <atom:link href="https://debadeepta.github.io/author/matt-digioia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Matt Digioia</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Debadeepta Dey 2020</copyright><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://debadeepta.github.io/img/headshot.jpg</url>
+      <title>Matt Digioia</title>
+      <link>https://debadeepta.github.io/author/matt-digioia/</link>
+    </image>
+    
+    <item>
+      <title>Passive, long-range detection of aircraft: towards a field deployable sense and avoid system</title>
+      <link>https://debadeepta.github.io/publication/dey-2010-passive/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/dey-2010-passive/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

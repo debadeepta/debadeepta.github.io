@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Debadeepta Dey</title>
+    <link>https://debadeepta.github.io/publication-type/2/</link>
+      <atom:link href="https://debadeepta.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Debadeepta Dey 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://debadeepta.github.io/img/headshot.jpg</url>
+      <title>2</title>
+      <link>https://debadeepta.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Blind Spot Detection for Safe Sim-to-Real Transfer</title>
+      <link>https://debadeepta.github.io/publication/ramakrishnan-2020-blind/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/ramakrishnan-2020-blind/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-driven planning via imitation learning</title>
+      <link>https://debadeepta.github.io/publication/choudhury-2018-data/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/choudhury-2018-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A cascaded method to detect aircraft in video imagery</title>
+      <link>https://debadeepta.github.io/publication/dey-2011-cascaded/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/dey-2011-cascaded/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prototype sense-and-avoid system for UAVs</title>
+      <link>https://debadeepta.github.io/publication/geyer-2009-prototype/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.github.io/publication/geyer-2009-prototype/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
