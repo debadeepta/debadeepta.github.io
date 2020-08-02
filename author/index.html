@@ -209,6 +209,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-125343212-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-125343212-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -237,7 +275,7 @@
   
   <meta property="og:site_name" content="Debadeepta Dey">
   <meta property="og:url" content="https://debadeepta.github.io/author/">
-  <meta property="og:title" content="Mike Roberts | Debadeepta Dey">
+  <meta property="og:title" content="Wen Sun | Debadeepta Dey">
   <meta property="og:description" content="Principal Researcher"><meta property="og:image" content="https://debadeepta.github.io/img/headshot.jpg">
   <meta property="twitter:image" content="https://debadeepta.github.io/img/headshot.jpg"><meta property="og:locale" content="en-us">
   
@@ -258,7 +296,7 @@
 
 
 
-  <title>Mike Roberts | Debadeepta Dey</title>
+  <title>Wen Sun | Debadeepta Dey</title>
 
 </head>
 
@@ -504,17 +542,17 @@
 
       
       
-      <img class="avatar avatar-circle" src="/author/avatar_huc0dcfde936176611e968b73e2f5b7038_113642_270x270_fill_q90_lanczos_center.jpg" alt="Avatar">
+      <img class="avatar avatar-circle" src="/author/avatar_hu3c95bec7d7ca36bac5bf02d917cfdd3e_86247_270x270_fill_q90_lanczos_center.jpg" alt="Avatar">
       
 
       <div class="portrait-title">
-        <h2>Mike Roberts</h2>
-        <h3>Stanford University, Summer 2016, 2017</h3>
+        <h2>Wen Sun</h2>
+        <h3>CMU, Summer 2016</h3>
 
         
         <h3>
-          <a href="https://graphics.stanford.edu/~mlrobert/" target="_blank" rel="noopener">
-          <span>Stanford University</span>
+          <a href="https://wensun.github.io/" target="_blank" rel="noopener">
+          <span>CMU</span>
           </a>
         </h3>
         
@@ -553,7 +591,11 @@
       <ul>
         
         <li>
-          <a href="/publication/roberts-2017-submodular/">Submodular trajectory optimization for aerial 3d scanning</a>
+          <a href="/publication/sun-2017-no/">No-regret replanning under uncertainty</a>
+        </li>
+        
+        <li>
+          <a href="/publication/sun-2017-safety/">Safety-aware algorithms for adversarial contextual bandit</a>
         </li>
         
       </ul>
