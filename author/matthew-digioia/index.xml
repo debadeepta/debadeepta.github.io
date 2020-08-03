@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matthew Digioia | Debadeepta Dey</title>
-    <link>https://debadeepta.github.io/author/matthew-digioia/</link>
-      <atom:link href="https://debadeepta.github.io/author/matthew-digioia/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://debadeepta.com/author/matthew-digioia/</link>
+      <atom:link href="https://debadeepta.com/author/matthew-digioia/index.xml" rel="self" type="application/rss+xml" />
     <description>Matthew Digioia</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Debadeepta Dey 2020</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://debadeepta.github.io/img/headshot.jpg</url>
+      <url>https://debadeepta.com/img/headshot.jpg</url>
       <title>Matthew Digioia</title>
-      <link>https://debadeepta.github.io/author/matthew-digioia/</link>
+      <link>https://debadeepta.com/author/matthew-digioia/</link>
     </image>
     
     <item>
       <title>A cascaded method to detect aircraft in video imagery</title>
-      <link>https://debadeepta.github.io/publication/dey-2011-cascaded/</link>
+      <link>https://debadeepta.com/publication/dey-2011-cascaded/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/dey-2011-cascaded/</guid>
+      <guid>https://debadeepta.com/publication/dey-2011-cascaded/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 | Debadeepta Dey</title>
-    <link>https://debadeepta.github.io/publication-type/3/</link>
-      <atom:link href="https://debadeepta.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://debadeepta.com/publication-type/3/</link>
+      <atom:link href="https://debadeepta.com/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Debadeepta Dey 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://debadeepta.github.io/img/headshot.jpg</url>
+      <url>https://debadeepta.com/img/headshot.jpg</url>
       <title>3</title>
-      <link>https://debadeepta.github.io/publication-type/3/</link>
+      <link>https://debadeepta.com/publication-type/3/</link>
     </image>
     
     <item>
       <title>Reparameterized Variational Divergence Minimization for Stable Imitation</title>
-      <link>https://debadeepta.github.io/publication/arumugam-2019-reparameterized/</link>
+      <link>https://debadeepta.com/publication/arumugam-2019-reparameterized/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/arumugam-2019-reparameterized/</guid>
+      <guid>https://debadeepta.com/publication/arumugam-2019-reparameterized/</guid>
       <description></description>
     </item>
     

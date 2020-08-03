@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent Talks | Debadeepta Dey</title>
-    <link>https://debadeepta.github.io/talk/</link>
-      <atom:link href="https://debadeepta.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://debadeepta.com/talk/</link>
+      <atom:link href="https://debadeepta.com/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Debadeepta Dey 2020</copyright>
     <image>
-      <url>https://debadeepta.github.io/img/headshot.jpg</url>
+      <url>https://debadeepta.com/img/headshot.jpg</url>
       <title>Recent Talks</title>
-      <link>https://debadeepta.github.io/talk/</link>
+      <link>https://debadeepta.com/talk/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://debadeepta.github.io/talk/example/</link>
+      <link>https://debadeepta.com/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/talk/example/</guid>
+      <guid>https://debadeepta.com/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.

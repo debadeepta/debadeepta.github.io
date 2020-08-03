@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Niteesh Sood | Debadeepta Dey</title>
-    <link>https://debadeepta.github.io/author/niteesh-sood/</link>
-      <atom:link href="https://debadeepta.github.io/author/niteesh-sood/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://debadeepta.com/author/niteesh-sood/</link>
+      <atom:link href="https://debadeepta.com/author/niteesh-sood/index.xml" rel="self" type="application/rss+xml" />
     <description>Niteesh Sood</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Debadeepta Dey 2020</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://debadeepta.github.io/img/headshot.jpg</url>
+      <url>https://debadeepta.com/img/headshot.jpg</url>
       <title>Niteesh Sood</title>
-      <link>https://debadeepta.github.io/author/niteesh-sood/</link>
+      <link>https://debadeepta.com/author/niteesh-sood/</link>
     </image>
     
     <item>
       <title>No-regret replanning under uncertainty</title>
-      <link>https://debadeepta.github.io/publication/sun-2017-no/</link>
+      <link>https://debadeepta.com/publication/sun-2017-no/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/sun-2017-no/</guid>
+      <guid>https://debadeepta.com/publication/sun-2017-no/</guid>
       <description></description>
     </item>
     

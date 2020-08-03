@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Drew Bagnell | Debadeepta Dey</title>
-    <link>https://debadeepta.github.io/author/drew-bagnell/</link>
-      <atom:link href="https://debadeepta.github.io/author/drew-bagnell/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://debadeepta.com/author/drew-bagnell/</link>
+      <atom:link href="https://debadeepta.com/author/drew-bagnell/index.xml" rel="self" type="application/rss+xml" />
     <description>Drew Bagnell</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Debadeepta Dey 2020</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://debadeepta.github.io/img/headshot.jpg</url>
+      <url>https://debadeepta.com/img/headshot.jpg</url>
       <title>Drew Bagnell</title>
-      <link>https://debadeepta.github.io/author/drew-bagnell/</link>
+      <link>https://debadeepta.com/author/drew-bagnell/</link>
     </image>
     
     <item>
       <title>Efficient Optimization of Control Libraries</title>
-      <link>https://debadeepta.github.io/publication/dey-2011-efficient/</link>
+      <link>https://debadeepta.com/publication/dey-2011-efficient/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/dey-2011-efficient/</guid>
+      <guid>https://debadeepta.com/publication/dey-2011-efficient/</guid>
       <description></description>
     </item>
     

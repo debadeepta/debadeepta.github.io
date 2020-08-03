@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Debadeepta Dey</title>
-    <link>https://debadeepta.github.io/</link>
-      <atom:link href="https://debadeepta.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://debadeepta.com/</link>
+      <atom:link href="https://debadeepta.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Debadeepta Dey</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Debadeepta Dey 2020</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://debadeepta.github.io/img/headshot.jpg</url>
+      <url>https://debadeepta.com/img/headshot.jpg</url>
       <title>Debadeepta Dey</title>
-      <link>https://debadeepta.github.io/</link>
+      <link>https://debadeepta.com/</link>
     </image>
     
     <item>
       <title>Example Page 1</title>
-      <link>https://debadeepta.github.io/courses/example/example1/</link>
+      <link>https://debadeepta.com/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://debadeepta.github.io/courses/example/example1/</guid>
+      <guid>https://debadeepta.com/courses/example/example1/</guid>
       <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>https://debadeepta.github.io/courses/example/example2/</link>
+      <link>https://debadeepta.com/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://debadeepta.github.io/courses/example/example2/</guid>
+      <guid>https://debadeepta.com/courses/example/example2/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -56,9 +56,9 @@
     
     <item>
       <title>Example Talk</title>
-      <link>https://debadeepta.github.io/talk/example/</link>
+      <link>https://debadeepta.com/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/talk/example/</guid>
+      <guid>https://debadeepta.com/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -78,41 +78,41 @@
     
     <item>
       <title>A Recipe for Creating Multimodal Aligned Datasets for Sequential Tasks</title>
-      <link>https://debadeepta.github.io/publication/lin-2020-recipe/</link>
+      <link>https://debadeepta.com/publication/lin-2020-recipe/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/lin-2020-recipe/</guid>
+      <guid>https://debadeepta.com/publication/lin-2020-recipe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blind Spot Detection for Safe Sim-to-Real Transfer</title>
-      <link>https://debadeepta.github.io/publication/ramakrishnan-2020-blind/</link>
+      <link>https://debadeepta.com/publication/ramakrishnan-2020-blind/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/ramakrishnan-2020-blind/</guid>
+      <guid>https://debadeepta.com/publication/ramakrishnan-2020-blind/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Metareasoning in Modular Software Systems: On-the-Fly Configuration using Reinforcement Learning with Rich Contextual Representations</title>
-      <link>https://debadeepta.github.io/publication/modi-2019-metareasoning/</link>
+      <link>https://debadeepta.com/publication/modi-2019-metareasoning/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/modi-2019-metareasoning/</guid>
+      <guid>https://debadeepta.com/publication/modi-2019-metareasoning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficient forward architecture search</title>
-      <link>https://debadeepta.github.io/publication/hu-2019-efficient/</link>
+      <link>https://debadeepta.com/publication/hu-2019-efficient/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/hu-2019-efficient/</guid>
+      <guid>https://debadeepta.com/publication/hu-2019-efficient/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Writing technical content in Academic</title>
-      <link>https://debadeepta.github.io/post/writing-technical-content/</link>
+      <link>https://debadeepta.com/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/post/writing-technical-content/</guid>
+      <guid>https://debadeepta.com/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
@@ -344,9 +344,9 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://debadeepta.github.io/post/jupyter/</link>
+      <link>https://debadeepta.com/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/post/jupyter/</guid>
+      <guid>https://debadeepta.com/post/jupyter/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;
@@ -393,9 +393,9 @@ date: 2019-09-01
     
     <item>
       <title>Slides</title>
-      <link>https://debadeepta.github.io/slides/example/</link>
+      <link>https://debadeepta.com/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/slides/example/</guid>
+      <guid>https://debadeepta.com/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
@@ -527,145 +527,145 @@ Three
     
     <item>
       <title>Anytime neural networks via joint optimization of auxiliary losses</title>
-      <link>https://debadeepta.github.io/publication/hu-2017-anytime/</link>
+      <link>https://debadeepta.com/publication/hu-2017-anytime/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/hu-2017-anytime/</guid>
+      <guid>https://debadeepta.com/publication/hu-2017-anytime/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Overcoming blind spots in the real world: Leveraging complementary abilities for joint execution</title>
-      <link>https://debadeepta.github.io/publication/ramakrishnan-2019-overcoming/</link>
+      <link>https://debadeepta.com/publication/ramakrishnan-2019-overcoming/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/ramakrishnan-2019-overcoming/</guid>
+      <guid>https://debadeepta.com/publication/ramakrishnan-2019-overcoming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reparameterized Variational Divergence Minimization for Stable Imitation</title>
-      <link>https://debadeepta.github.io/publication/arumugam-2019-reparameterized/</link>
+      <link>https://debadeepta.com/publication/arumugam-2019-reparameterized/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/arumugam-2019-reparameterized/</guid>
+      <guid>https://debadeepta.com/publication/arumugam-2019-reparameterized/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vision-based Navigation with Language-based Assistance via Imitation Learning with Indirect Intervention</title>
-      <link>https://debadeepta.github.io/publication/nguyen-2018-vision/</link>
+      <link>https://debadeepta.com/publication/nguyen-2018-vision/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/nguyen-2018-vision/</guid>
+      <guid>https://debadeepta.com/publication/nguyen-2018-vision/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Airsim-w: A simulation environment for wildlife conservation with uavs</title>
-      <link>https://debadeepta.github.io/publication/bondi-2018-airsim/</link>
+      <link>https://debadeepta.com/publication/bondi-2018-airsim/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/bondi-2018-airsim/</guid>
+      <guid>https://debadeepta.com/publication/bondi-2018-airsim/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data-driven planning via imitation learning</title>
-      <link>https://debadeepta.github.io/publication/choudhury-2018-data/</link>
+      <link>https://debadeepta.com/publication/choudhury-2018-data/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/choudhury-2018-data/</guid>
+      <guid>https://debadeepta.com/publication/choudhury-2018-data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Discovering blind spots in reinforcement learning</title>
-      <link>https://debadeepta.github.io/publication/ramakrishnan-2018-discovering/</link>
+      <link>https://debadeepta.com/publication/ramakrishnan-2018-discovering/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/ramakrishnan-2018-discovering/</guid>
+      <guid>https://debadeepta.com/publication/ramakrishnan-2018-discovering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learn-to-score: Efficient 3d scene exploration by predicting view utility</title>
-      <link>https://debadeepta.github.io/publication/hepp-2018-learn/</link>
+      <link>https://debadeepta.com/publication/hepp-2018-learn/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/hepp-2018-learn/</guid>
+      <guid>https://debadeepta.com/publication/hepp-2018-learn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Near Real-Time Detection of Poachers from Drones in AirSim.</title>
-      <link>https://debadeepta.github.io/publication/bondi-2018-near/</link>
+      <link>https://debadeepta.com/publication/bondi-2018-near/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/bondi-2018-near/</guid>
+      <guid>https://debadeepta.com/publication/bondi-2018-near/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adaptive information gathering via imitation learning</title>
-      <link>https://debadeepta.github.io/publication/choudhury-2017-adaptive/</link>
+      <link>https://debadeepta.com/publication/choudhury-2017-adaptive/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/choudhury-2017-adaptive/</guid>
+      <guid>https://debadeepta.com/publication/choudhury-2017-adaptive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Airsim: High-fidelity visual and physical simulation for autonomous vehicles</title>
-      <link>https://debadeepta.github.io/publication/shah-2017-airsim/</link>
+      <link>https://debadeepta.com/publication/shah-2017-airsim/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/shah-2017-airsim/</guid>
+      <guid>https://debadeepta.com/publication/shah-2017-airsim/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flight dynamics-based recovery of a UAV trajectory using ground cameras</title>
-      <link>https://debadeepta.github.io/publication/rozantsev-2017-flight/</link>
+      <link>https://debadeepta.com/publication/rozantsev-2017-flight/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/rozantsev-2017-flight/</guid>
+      <guid>https://debadeepta.com/publication/rozantsev-2017-flight/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning to gather information via imitation</title>
-      <link>https://debadeepta.github.io/publication/choudhury-2017-learning/</link>
+      <link>https://debadeepta.com/publication/choudhury-2017-learning/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/choudhury-2017-learning/</guid>
+      <guid>https://debadeepta.com/publication/choudhury-2017-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>No-regret replanning under uncertainty</title>
-      <link>https://debadeepta.github.io/publication/sun-2017-no/</link>
+      <link>https://debadeepta.com/publication/sun-2017-no/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/sun-2017-no/</guid>
+      <guid>https://debadeepta.com/publication/sun-2017-no/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Safety-aware algorithms for adversarial contextual bandit</title>
-      <link>https://debadeepta.github.io/publication/sun-2017-safety/</link>
+      <link>https://debadeepta.com/publication/sun-2017-safety/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/sun-2017-safety/</guid>
+      <guid>https://debadeepta.com/publication/sun-2017-safety/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Submodular trajectory optimization for aerial 3d scanning</title>
-      <link>https://debadeepta.github.io/publication/roberts-2017-submodular/</link>
+      <link>https://debadeepta.com/publication/roberts-2017-submodular/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/roberts-2017-submodular/</guid>
+      <guid>https://debadeepta.com/publication/roberts-2017-submodular/</guid>
       <description></description>
     </item>
     
     <item>
       <title>External Project</title>
-      <link>https://debadeepta.github.io/project/external-project/</link>
+      <link>https://debadeepta.com/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/project/external-project/</guid>
+      <guid>https://debadeepta.com/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internal Project</title>
-      <link>https://debadeepta.github.io/project/internal-project/</link>
+      <link>https://debadeepta.com/project/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/project/internal-project/</guid>
+      <guid>https://debadeepta.com/project/internal-project/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -676,9 +676,9 @@ Three
     
     <item>
       <title>Academic: the website builder for Hugo</title>
-      <link>https://debadeepta.github.io/post/getting-started/</link>
+      <link>https://debadeepta.com/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/post/getting-started/</guid>
+      <guid>https://debadeepta.com/post/getting-started/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or 
@@ -820,97 +820,97 @@ Three
     
     <item>
       <title>Vision and learning for deliberative monocular cluttered flight</title>
-      <link>https://debadeepta.github.io/publication/dey-2016-vision/</link>
+      <link>https://debadeepta.com/publication/dey-2016-vision/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/dey-2016-vision/</guid>
+      <guid>https://debadeepta.com/publication/dey-2016-vision/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predicting Sets and Lists: Theory and Practice</title>
-      <link>https://debadeepta.github.io/publication/dey-thesis-2015/</link>
+      <link>https://debadeepta.com/publication/dey-thesis-2015/</link>
       <pubDate>Fri, 31 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/dey-thesis-2015/</guid>
+      <guid>https://debadeepta.com/publication/dey-thesis-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predicting multiple structured visual interpretations</title>
-      <link>https://debadeepta.github.io/publication/dey-2015-predicting/</link>
+      <link>https://debadeepta.com/publication/dey-2015-predicting/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/dey-2015-predicting/</guid>
+      <guid>https://debadeepta.com/publication/dey-2015-predicting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gauss Meets Canadian Traveler: Shortest-Path Problems  with Correlated Natural Dynamics</title>
-      <link>https://debadeepta.github.io/publication/debadeepta-2014-gauss/</link>
+      <link>https://debadeepta.com/publication/debadeepta-2014-gauss/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/debadeepta-2014-gauss/</guid>
+      <guid>https://debadeepta.com/publication/debadeepta-2014-gauss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Knapsack constrained contextual submodular list prediction with application to multi-document summarization</title>
-      <link>https://debadeepta.github.io/publication/ross-2013-scp/</link>
+      <link>https://debadeepta.com/publication/ross-2013-scp/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/ross-2013-scp/</guid>
+      <guid>https://debadeepta.com/publication/ross-2013-scp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning monocular reactive uav control in cluttered natural environments</title>
-      <link>https://debadeepta.github.io/publication/ross-2013-learning/</link>
+      <link>https://debadeepta.com/publication/ross-2013-learning/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/ross-2013-learning/</guid>
+      <guid>https://debadeepta.com/publication/ross-2013-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Classification of plant structures from uncalibrated image sequences</title>
-      <link>https://debadeepta.github.io/publication/dey-2012-classification/</link>
+      <link>https://debadeepta.com/publication/dey-2012-classification/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/dey-2012-classification/</guid>
+      <guid>https://debadeepta.com/publication/dey-2012-classification/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contextual Sequence Prediction with Application to Control Library Optimization</title>
-      <link>https://debadeepta.github.io/publication/deycontextual/</link>
+      <link>https://debadeepta.com/publication/deycontextual/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/deycontextual/</guid>
+      <guid>https://debadeepta.com/publication/deycontextual/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A cascaded method to detect aircraft in video imagery</title>
-      <link>https://debadeepta.github.io/publication/dey-2011-cascaded/</link>
+      <link>https://debadeepta.com/publication/dey-2011-cascaded/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/dey-2011-cascaded/</guid>
+      <guid>https://debadeepta.com/publication/dey-2011-cascaded/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficient Optimization of Control Libraries</title>
-      <link>https://debadeepta.github.io/publication/dey-2011-efficient/</link>
+      <link>https://debadeepta.com/publication/dey-2011-efficient/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/dey-2011-efficient/</guid>
+      <guid>https://debadeepta.com/publication/dey-2011-efficient/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Passive, long-range detection of aircraft: towards a field deployable sense and avoid system</title>
-      <link>https://debadeepta.github.io/publication/dey-2010-passive/</link>
+      <link>https://debadeepta.com/publication/dey-2010-passive/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/dey-2010-passive/</guid>
+      <guid>https://debadeepta.com/publication/dey-2010-passive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prototype sense-and-avoid system for UAVs</title>
-      <link>https://debadeepta.github.io/publication/geyer-2009-prototype/</link>
+      <link>https://debadeepta.com/publication/geyer-2009-prototype/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/geyer-2009-prototype/</guid>
+      <guid>https://debadeepta.com/publication/geyer-2009-prototype/</guid>
       <description></description>
     </item>
     

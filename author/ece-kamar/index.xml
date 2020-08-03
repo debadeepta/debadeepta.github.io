@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ece Kamar | Debadeepta Dey</title>
-    <link>https://debadeepta.github.io/author/ece-kamar/</link>
-      <atom:link href="https://debadeepta.github.io/author/ece-kamar/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://debadeepta.com/author/ece-kamar/</link>
+      <atom:link href="https://debadeepta.com/author/ece-kamar/index.xml" rel="self" type="application/rss+xml" />
     <description>Ece Kamar</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Debadeepta Dey 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://debadeepta.github.io/img/headshot.jpg</url>
+      <url>https://debadeepta.com/img/headshot.jpg</url>
       <title>Ece Kamar</title>
-      <link>https://debadeepta.github.io/author/ece-kamar/</link>
+      <link>https://debadeepta.com/author/ece-kamar/</link>
     </image>
     
     <item>
       <title>Blind Spot Detection for Safe Sim-to-Real Transfer</title>
-      <link>https://debadeepta.github.io/publication/ramakrishnan-2020-blind/</link>
+      <link>https://debadeepta.com/publication/ramakrishnan-2020-blind/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/ramakrishnan-2020-blind/</guid>
+      <guid>https://debadeepta.com/publication/ramakrishnan-2020-blind/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Overcoming blind spots in the real world: Leveraging complementary abilities for joint execution</title>
-      <link>https://debadeepta.github.io/publication/ramakrishnan-2019-overcoming/</link>
+      <link>https://debadeepta.com/publication/ramakrishnan-2019-overcoming/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/ramakrishnan-2019-overcoming/</guid>
+      <guid>https://debadeepta.com/publication/ramakrishnan-2019-overcoming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Discovering blind spots in reinforcement learning</title>
-      <link>https://debadeepta.github.io/publication/ramakrishnan-2018-discovering/</link>
+      <link>https://debadeepta.com/publication/ramakrishnan-2018-discovering/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/ramakrishnan-2018-discovering/</guid>
+      <guid>https://debadeepta.com/publication/ramakrishnan-2018-discovering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gauss Meets Canadian Traveler: Shortest-Path Problems  with Correlated Natural Dynamics</title>
-      <link>https://debadeepta.github.io/publication/debadeepta-2014-gauss/</link>
+      <link>https://debadeepta.com/publication/debadeepta-2014-gauss/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/debadeepta-2014-gauss/</guid>
+      <guid>https://debadeepta.com/publication/debadeepta-2014-gauss/</guid>
       <description></description>
     </item>
     

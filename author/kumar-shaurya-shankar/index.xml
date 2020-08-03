@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kumar Shaurya Shankar | Debadeepta Dey</title>
-    <link>https://debadeepta.github.io/author/kumar-shaurya-shankar/</link>
-      <atom:link href="https://debadeepta.github.io/author/kumar-shaurya-shankar/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://debadeepta.com/author/kumar-shaurya-shankar/</link>
+      <atom:link href="https://debadeepta.com/author/kumar-shaurya-shankar/index.xml" rel="self" type="application/rss+xml" />
     <description>Kumar Shaurya Shankar</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Debadeepta Dey 2020</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://debadeepta.github.io/img/headshot.jpg</url>
+      <url>https://debadeepta.com/img/headshot.jpg</url>
       <title>Kumar Shaurya Shankar</title>
-      <link>https://debadeepta.github.io/author/kumar-shaurya-shankar/</link>
+      <link>https://debadeepta.com/author/kumar-shaurya-shankar/</link>
     </image>
     
     <item>
       <title>Vision and learning for deliberative monocular cluttered flight</title>
-      <link>https://debadeepta.github.io/publication/dey-2016-vision/</link>
+      <link>https://debadeepta.com/publication/dey-2016-vision/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/dey-2016-vision/</guid>
+      <guid>https://debadeepta.com/publication/dey-2016-vision/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning monocular reactive uav control in cluttered natural environments</title>
-      <link>https://debadeepta.github.io/publication/ross-2013-learning/</link>
+      <link>https://debadeepta.com/publication/ross-2013-learning/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/ross-2013-learning/</guid>
+      <guid>https://debadeepta.com/publication/ross-2013-learning/</guid>
       <description></description>
     </item>
     

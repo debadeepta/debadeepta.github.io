@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chris Brockett | Debadeepta Dey</title>
-    <link>https://debadeepta.github.io/author/chris-brockett/</link>
-      <atom:link href="https://debadeepta.github.io/author/chris-brockett/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://debadeepta.com/author/chris-brockett/</link>
+      <atom:link href="https://debadeepta.com/author/chris-brockett/index.xml" rel="self" type="application/rss+xml" />
     <description>Chris Brockett</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Debadeepta Dey 2020</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://debadeepta.github.io/img/headshot.jpg</url>
+      <url>https://debadeepta.com/img/headshot.jpg</url>
       <title>Chris Brockett</title>
-      <link>https://debadeepta.github.io/author/chris-brockett/</link>
+      <link>https://debadeepta.com/author/chris-brockett/</link>
     </image>
     
     <item>
       <title>A Recipe for Creating Multimodal Aligned Datasets for Sequential Tasks</title>
-      <link>https://debadeepta.github.io/publication/lin-2020-recipe/</link>
+      <link>https://debadeepta.com/publication/lin-2020-recipe/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/lin-2020-recipe/</guid>
+      <guid>https://debadeepta.com/publication/lin-2020-recipe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vision-based Navigation with Language-based Assistance via Imitation Learning with Indirect Intervention</title>
-      <link>https://debadeepta.github.io/publication/nguyen-2018-vision/</link>
+      <link>https://debadeepta.com/publication/nguyen-2018-vision/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/nguyen-2018-vision/</guid>
+      <guid>https://debadeepta.com/publication/nguyen-2018-vision/</guid>
       <description></description>
     </item>
     

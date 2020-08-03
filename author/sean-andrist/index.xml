@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sean Andrist | Debadeepta Dey</title>
-    <link>https://debadeepta.github.io/author/sean-andrist/</link>
-      <atom:link href="https://debadeepta.github.io/author/sean-andrist/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://debadeepta.com/author/sean-andrist/</link>
+      <atom:link href="https://debadeepta.com/author/sean-andrist/index.xml" rel="self" type="application/rss+xml" />
     <description>Sean Andrist</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Debadeepta Dey 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://debadeepta.github.io/img/headshot.jpg</url>
+      <url>https://debadeepta.com/img/headshot.jpg</url>
       <title>Sean Andrist</title>
-      <link>https://debadeepta.github.io/author/sean-andrist/</link>
+      <link>https://debadeepta.com/author/sean-andrist/</link>
     </image>
     
     <item>
       <title>Metareasoning in Modular Software Systems: On-the-Fly Configuration using Reinforcement Learning with Rich Contextual Representations</title>
-      <link>https://debadeepta.github.io/publication/modi-2019-metareasoning/</link>
+      <link>https://debadeepta.com/publication/modi-2019-metareasoning/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/modi-2019-metareasoning/</guid>
+      <guid>https://debadeepta.com/publication/modi-2019-metareasoning/</guid>
       <description></description>
     </item>
     

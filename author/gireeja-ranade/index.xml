@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gireeja Ranade | Debadeepta Dey</title>
-    <link>https://debadeepta.github.io/author/gireeja-ranade/</link>
-      <atom:link href="https://debadeepta.github.io/author/gireeja-ranade/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://debadeepta.com/author/gireeja-ranade/</link>
+      <atom:link href="https://debadeepta.com/author/gireeja-ranade/index.xml" rel="self" type="application/rss+xml" />
     <description>Gireeja Ranade</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Debadeepta Dey 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://debadeepta.github.io/img/headshot.jpg</url>
+      <url>https://debadeepta.com/img/headshot.jpg</url>
       <title>Gireeja Ranade</title>
-      <link>https://debadeepta.github.io/author/gireeja-ranade/</link>
+      <link>https://debadeepta.com/author/gireeja-ranade/</link>
     </image>
     
     <item>
       <title>Data-driven planning via imitation learning</title>
-      <link>https://debadeepta.github.io/publication/choudhury-2018-data/</link>
+      <link>https://debadeepta.com/publication/choudhury-2018-data/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/choudhury-2018-data/</guid>
+      <guid>https://debadeepta.com/publication/choudhury-2018-data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adaptive information gathering via imitation learning</title>
-      <link>https://debadeepta.github.io/publication/choudhury-2017-adaptive/</link>
+      <link>https://debadeepta.com/publication/choudhury-2017-adaptive/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/choudhury-2017-adaptive/</guid>
+      <guid>https://debadeepta.com/publication/choudhury-2017-adaptive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning to gather information via imitation</title>
-      <link>https://debadeepta.github.io/publication/choudhury-2017-learning/</link>
+      <link>https://debadeepta.com/publication/choudhury-2017-learning/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/choudhury-2017-learning/</guid>
+      <guid>https://debadeepta.com/publication/choudhury-2017-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>No-regret replanning under uncertainty</title>
-      <link>https://debadeepta.github.io/publication/sun-2017-no/</link>
+      <link>https://debadeepta.com/publication/sun-2017-no/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/sun-2017-no/</guid>
+      <guid>https://debadeepta.com/publication/sun-2017-no/</guid>
       <description></description>
     </item>
     

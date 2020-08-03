@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fei Fang | Debadeepta Dey</title>
-    <link>https://debadeepta.github.io/author/fei-fang/</link>
-      <atom:link href="https://debadeepta.github.io/author/fei-fang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://debadeepta.com/author/fei-fang/</link>
+      <atom:link href="https://debadeepta.com/author/fei-fang/index.xml" rel="self" type="application/rss+xml" />
     <description>Fei Fang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Debadeepta Dey 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://debadeepta.github.io/img/headshot.jpg</url>
+      <url>https://debadeepta.com/img/headshot.jpg</url>
       <title>Fei Fang</title>
-      <link>https://debadeepta.github.io/author/fei-fang/</link>
+      <link>https://debadeepta.com/author/fei-fang/</link>
     </image>
     
     <item>
       <title>Airsim-w: A simulation environment for wildlife conservation with uavs</title>
-      <link>https://debadeepta.github.io/publication/bondi-2018-airsim/</link>
+      <link>https://debadeepta.com/publication/bondi-2018-airsim/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.github.io/publication/bondi-2018-airsim/</guid>
+      <guid>https://debadeepta.com/publication/bondi-2018-airsim/</guid>
       <description></description>
     </item>
     
