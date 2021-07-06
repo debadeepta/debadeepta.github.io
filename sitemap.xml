@@ -1,770 +1,470 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://debadeepta.com/courses/example/example1/</loc>
     <lastmod>2020-06-24T18:29:47-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/courses/example/</loc>
     <lastmod>2020-06-24T18:29:47-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/courses/example/example2/</loc>
     <lastmod>2020-06-24T18:29:47-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/</loc>
-    <lastmod>2020-08-02T14:56:10-07:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://debadeepta.com/talk/example/</loc>
     <lastmod>2020-07-26T21:08:39-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://debadeepta.com/publication-type/3/</loc>
+    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://debadeepta.com/authors/</loc>
+    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://debadeepta.com/author/debadeepta-dey/</loc>
+    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://debadeepta.com/publication/dey-2021-fear/</loc>
+    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://debadeepta.com/publication_types/</loc>
+    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://debadeepta.com/author/sebastien-bubeck/</loc>
+    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://debadeepta.com/author/shital-shah/</loc>
+    <lastmod>2021-06-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://debadeepta.com/publication-type/1/</loc>
     <lastmod>2020-07-25T21:06:35-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/publication/lin-2020-recipe/</loc>
     <lastmod>2020-06-27T11:01:56-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/angela-s-lin/</loc>
     <lastmod>2020-06-27T11:01:56-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/asli-celikyilmaz/</loc>
     <lastmod>2020-06-27T11:01:56-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://debadeepta.com/authors/</loc>
-    <lastmod>2020-08-02T14:56:10-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/bill-dolan/</loc>
     <lastmod>2020-06-27T11:01:56-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/chris-brockett/</loc>
     <lastmod>2020-06-27T11:01:56-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://debadeepta.com/author/debadeepta-dey/</loc>
-    <lastmod>2020-07-26T15:26:38-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/elnaz-nouri/</loc>
     <lastmod>2020-06-27T11:01:56-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://debadeepta.com/publication_types/</loc>
-    <lastmod>2020-07-26T15:26:38-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/sudha-rao/</loc>
     <lastmod>2020-06-27T11:01:56-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/publication-type/2/</loc>
     <lastmod>2020-06-27T11:01:56-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/adith-swaminathan/</loc>
     <lastmod>2020-07-11T18:11:09-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/alekh-agarwal/</loc>
     <lastmod>2020-07-11T18:11:09-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/besmira-nushi/</loc>
     <lastmod>2020-07-11T18:11:09-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/publication/ramakrishnan-2020-blind/</loc>
     <lastmod>2020-06-27T11:01:56-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/ece-kamar/</loc>
     <lastmod>2020-07-25T21:06:35-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/eric-horvitz/</loc>
     <lastmod>2020-07-25T21:06:35-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/julie-shah/</loc>
     <lastmod>2020-07-11T11:28:57-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/publication/modi-2019-metareasoning/</loc>
     <lastmod>2020-07-11T18:11:09-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/sean-andrist/</loc>
     <lastmod>2020-07-11T18:11:09-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/publication/hu-2019-efficient/</loc>
     <lastmod>2020-06-27T11:01:56-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/eric-j-horvitz/</loc>
     <lastmod>2020-06-27T11:01:56-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/john-langford/</loc>
     <lastmod>2020-06-27T11:01:56-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/rich-caruana/</loc>
     <lastmod>2020-07-25T21:06:35-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/saurajit-mukherjee/</loc>
     <lastmod>2020-06-27T11:01:56-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/post/writing-technical-content/</loc>
     <lastmod>2020-06-24T18:29:47-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/post/jupyter/</loc>
     <lastmod>2020-06-24T18:29:47-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/slides/</loc>
     <lastmod>2020-06-24T18:29:47-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/slides/example/</loc>
     <lastmod>2020-06-24T18:29:47-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/publication/hu-2017-anytime/</loc>
     <lastmod>2020-06-27T11:01:56-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/j-andrew-bagnell/</loc>
     <lastmod>2020-07-25T21:06:35-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/martial-hebert/</loc>
     <lastmod>2020-07-25T21:06:35-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://debadeepta.com/publication-type/3/</loc>
-    <lastmod>2020-06-24T20:51:38-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/publication/ramakrishnan-2019-overcoming/</loc>
     <lastmod>2020-07-11T11:28:57-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/publication/arumugam-2019-reparameterized/</loc>
     <lastmod>2020-06-24T20:51:38-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/publication/nguyen-2018-vision/</loc>
     <lastmod>2020-06-27T11:01:56-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/others/</loc>
     <lastmod>2020-06-24T20:51:38-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/publication/bondi-2018-airsim/</loc>
     <lastmod>2020-06-24T20:51:38-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/arvind-iyer/</loc>
     <lastmod>2020-06-24T20:51:38-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/ashish-kapoor/</loc>
     <lastmod>2020-07-25T21:06:35-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/bistra-dilkina/</loc>
     <lastmod>2020-06-24T20:51:38-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/publication/choudhury-2018-data/</loc>
     <lastmod>2020-06-24T20:51:38-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/publication/ramakrishnan-2018-discovering/</loc>
     <lastmod>2020-07-11T11:28:57-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/fei-fang/</loc>
     <lastmod>2020-06-24T20:51:38-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/gireeja-ranade/</loc>
     <lastmod>2020-07-25T21:06:35-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/james-piavis/</loc>
     <lastmod>2020-06-24T20:51:38-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/jim-piavis/</loc>
     <lastmod>2020-06-24T20:51:38-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/publication/hepp-2018-learn/</loc>
     <lastmod>2020-07-11T18:11:09-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/lucas-joppa/</loc>
     <lastmod>2020-06-24T20:51:38-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/milind-tambe/</loc>
     <lastmod>2020-06-24T20:51:38-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/mohak-bhardwaj/</loc>
     <lastmod>2020-06-24T20:51:38-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/publication/bondi-2018-near/</loc>
     <lastmod>2020-06-24T20:51:38-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/neel-joshi/</loc>
     <lastmod>2020-07-11T18:11:09-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/otmar-hilliges/</loc>
     <lastmod>2020-07-11T18:11:09-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/robert-hannaford/</loc>
     <lastmod>2020-06-24T20:51:38-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/sankalp-arora/</loc>
     <lastmod>2020-06-24T20:51:38-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/sebastian-scherer/</loc>
     <lastmod>2020-07-11T18:11:09-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://debadeepta.com/author/shital-shah/</loc>
-    <lastmod>2020-07-11T18:11:09-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/sudipta-n-sinha/</loc>
     <lastmod>2020-07-11T18:11:09-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/publication/choudhury-2017-adaptive/</loc>
     <lastmod>2020-07-11T18:11:09-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/publication/shah-2017-airsim/</loc>
     <lastmod>2020-07-11T18:11:09-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/anh-truong/</loc>
     <lastmod>2020-07-11T18:11:09-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/artem-rozantsev/</loc>
     <lastmod>2020-07-11T18:11:09-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/chris-lovett/</loc>
     <lastmod>2020-07-11T18:11:09-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/publication/rozantsev-2017-flight/</loc>
     <lastmod>2020-07-11T18:11:09-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/publication/choudhury-2017-learning/</loc>
     <lastmod>2020-07-25T21:06:35-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/niteesh-sood/</loc>
     <lastmod>2020-06-24T20:51:38-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/publication/sun-2017-no/</loc>
     <lastmod>2020-06-24T20:51:38-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/pascal-fua/</loc>
     <lastmod>2020-07-11T18:11:09-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/pat-hanrahan/</loc>
     <lastmod>2020-07-11T18:11:09-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/publication/sun-2017-safety/</loc>
     <lastmod>2020-07-11T18:11:09-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/siddharth-prakash/</loc>
     <lastmod>2020-06-24T20:51:38-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/publication/roberts-2017-submodular/</loc>
     <lastmod>2020-07-11T18:11:09-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/sudipta-sinha/</loc>
     <lastmod>2020-07-11T18:11:09-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/tag/deep-learning/</loc>
     <lastmod>2020-06-24T18:29:47-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/tag/demo/</loc>
     <lastmod>2020-06-24T18:29:47-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/project/external-project/</loc>
     <lastmod>2020-06-24T18:29:47-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/project/internal-project/</loc>
     <lastmod>2020-06-24T18:29:47-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/project/</loc>
     <lastmod>2020-06-24T18:29:47-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/tags/</loc>
     <lastmod>2020-06-24T18:29:47-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/tag/academic/</loc>
     <lastmod>2020-06-24T18:29:47-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/post/getting-started/</loc>
     <lastmod>2020-06-24T18:29:47-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/categories/</loc>
     <lastmod>2020-06-24T18:29:47-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/category/demo/</loc>
     <lastmod>2020-06-24T18:29:47-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
     <lastmod>2020-06-24T18:29:47-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2020-06-24T18:29:47-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-06-24T18:29:47-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/christopher-eriksen/</loc>
     <lastmod>2020-07-25T21:06:35-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/kumar-shaurya-shankar/</loc>
     <lastmod>2020-07-25T21:06:35-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/m-talha-agcayazi/</loc>
     <lastmod>2020-07-25T21:06:35-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/rupesh-mehta/</loc>
     <lastmod>2020-07-25T21:06:35-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/sam-zeng/</loc>
     <lastmod>2020-07-25T21:06:35-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/shreyansh-daftry/</loc>
     <lastmod>2020-07-25T21:06:35-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/publication/dey-2016-vision/</loc>
     <lastmod>2020-07-25T21:06:35-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/publication-type/7/</loc>
     <lastmod>2020-07-26T15:26:38-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/publication/dey-thesis-2015/</loc>
     <lastmod>2020-07-26T15:26:38-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/publication/dey-2015-predicting/</loc>
     <lastmod>2020-07-25T21:06:35-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/varun-ramakrishna/</loc>
     <lastmod>2020-07-25T21:06:35-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/andrey-kolobov/</loc>
     <lastmod>2020-07-25T21:06:35-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/dey-debadeepta/</loc>
     <lastmod>2020-07-25T21:06:35-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/publication/debadeepta-2014-gauss/</loc>
     <lastmod>2020-07-25T21:06:35-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/andreas-wendel/</loc>
     <lastmod>2020-07-25T21:06:35-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/jiaji-zhou/</loc>
     <lastmod>2020-07-25T21:06:35-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/publication/ross-2013-scp/</loc>
     <lastmod>2020-07-25T21:06:35-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/publication/ross-2013-learning/</loc>
     <lastmod>2020-07-25T21:06:35-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/narek-melik-barkhudarov/</loc>
     <lastmod>2020-07-25T21:06:35-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/stephane-ross/</loc>
     <lastmod>2020-07-25T21:06:35-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/yisong-yue/</loc>
     <lastmod>2020-07-25T21:06:35-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/publication/dey-2012-classification/</loc>
     <lastmod>2020-07-25T21:06:35-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/publication/deycontextual/</loc>
     <lastmod>2020-07-25T21:06:35-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/lily-mummert/</loc>
     <lastmod>2020-07-25T21:06:35-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/rahul-sukthankar/</loc>
     <lastmod>2020-07-25T21:06:35-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/tian-yu-liu/</loc>
     <lastmod>2020-07-25T21:06:35-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/publication/dey-2011-cascaded/</loc>
     <lastmod>2020-06-24T20:51:38-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/boris-sofman/</loc>
     <lastmod>2020-07-25T21:06:35-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/christopher-geyer/</loc>
     <lastmod>2020-07-25T21:06:35-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/drew-bagnell/</loc>
     <lastmod>2020-07-25T21:06:35-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/publication/dey-2011-efficient/</loc>
     <lastmod>2020-07-25T21:06:35-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/matthew-digioia/</loc>
     <lastmod>2020-06-24T20:51:38-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/sanjiv-singh/</loc>
     <lastmod>2020-07-25T21:06:35-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/matt-digioia/</loc>
     <lastmod>2020-07-25T21:06:35-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/publication/dey-2010-passive/</loc>
     <lastmod>2020-07-25T21:06:35-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/c-geyer/</loc>
     <lastmod>2020-06-24T20:51:38-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/publication/geyer-2009-prototype/</loc>
     <lastmod>2020-06-24T20:51:38-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/</loc>
     <lastmod>2020-08-01T12:25:23-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/</loc>
     <lastmod>2020-08-01T14:12:09-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/</loc>
     <lastmod>2020-08-01T14:12:09-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/</loc>
     <lastmod>2020-08-01T14:12:09-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/</loc>
     <lastmod>2020-08-01T14:12:09-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/</loc>
     <lastmod>2020-08-01T14:12:09-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/</loc>
     <lastmod>2020-08-01T12:25:23-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/</loc>
     <lastmod>2020-08-01T14:12:09-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/</loc>
     <lastmod>2020-08-01T14:12:09-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/</loc>
     <lastmod>2020-08-01T14:12:09-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/</loc>
     <lastmod>2020-08-01T14:12:09-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/</loc>
     <lastmod>2020-08-01T14:12:09-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/</loc>
     <lastmod>2020-08-01T14:12:09-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/</loc>
     <lastmod>2020-08-01T14:12:09-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/</loc>
     <lastmod>2020-08-01T14:12:09-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/</loc>
     <lastmod>2020-08-01T14:12:09-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/</loc>
     <lastmod>2020-08-01T14:12:09-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/</loc>
     <lastmod>2020-08-01T14:12:09-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/courses/</loc>
     <lastmod>2020-06-24T18:29:47-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/author/debadeepta-dey/</loc>
     <lastmod>2020-08-02T14:56:10-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/post/</loc>
     <lastmod>2019-05-06T17:54:11+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/publication/</loc>
     <lastmod>2019-05-06T17:54:11+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://debadeepta.com/talk/</loc>
     <lastmod>2020-07-26T21:08:39-07:00</lastmod>
   </url>
-  
 </urlset>

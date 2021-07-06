@@ -5,7 +5,7 @@
     <link>https://debadeepta.com/</link>
       <atom:link href="https://debadeepta.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Debadeepta Dey</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Debadeepta Dey 2020</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Debadeepta Dey 2021</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://debadeepta.com/img/headshot.jpg</url>
       <title>Debadeepta Dey</title>
@@ -74,6 +74,14 @@
 &lt;/ul&gt;
 &lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>FEAR: Ranking Architectures by their Feature Extraction Capabilities</title>
+      <link>https://debadeepta.com/publication/dey-2021-fear/</link>
+      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.com/publication/dey-2021-fear/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -147,7 +155,7 @@ data.head()
 1-p_0^* &amp;amp; \text {if }k=0.\end{cases}$$
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;renders as&lt;/p&gt;
-&lt;p&gt;$$f(k;p_0^*) = \begin{cases} p_0^* &amp;amp; \text{if }k=1, \\&lt;br&gt;
+&lt;p&gt;$$f(k;p_0^&lt;em&gt;) = \begin{cases} p_0^&lt;/em&gt; &amp;amp; \text{if }k=1, \\&lt;br&gt;
 1-p_0^* &amp;amp; \text {if }k=0.\end{cases}$$&lt;/p&gt;
 &lt;h3 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h3&gt;
 &lt;p&gt;Academic supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code&gt;diagram&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file or by adding &lt;code&gt;diagram: true&lt;/code&gt; to your page front matter.&lt;/p&gt;

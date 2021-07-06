@@ -5,12 +5,20 @@
     <link>https://debadeepta.com/publication/</link>
       <atom:link href="https://debadeepta.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Debadeepta Dey 2020</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Debadeepta Dey 2021</copyright>
     <image>
       <url>https://debadeepta.com/img/headshot.jpg</url>
       <title>Publications</title>
       <link>https://debadeepta.com/publication/</link>
     </image>
+    
+    <item>
+      <title>FEAR: Ranking Architectures by their Feature Extraction Capabilities</title>
+      <link>https://debadeepta.com/publication/dey-2021-fear/</link>
+      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.com/publication/dey-2021-fear/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Recipe for Creating Multimodal Aligned Datasets for Sequential Tasks</title>
