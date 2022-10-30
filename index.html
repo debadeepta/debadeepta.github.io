@@ -255,8 +255,8 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu2a18e356b78ff38d5381fbce1b322dd0_22358_32x32_fill_lanczos_center_3.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu2a18e356b78ff38d5381fbce1b322dd0_22358_192x192_fill_lanczos_center_3.png">
+  <link rel="icon" type="image/png" href="/images/icon_hu2a18e356b78ff38d5381fbce1b322dd0_22358_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu2a18e356b78ff38d5381fbce1b322dd0_22358_192x192_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="https://debadeepta.com/">
 
@@ -1808,6 +1808,8 @@
 
 
 
+  
+
 
 <div class="card-simple">
 
@@ -1825,7 +1827,7 @@
     
 
   
-  <span><a href="/author/debadeepta-dey/">Debadeepta Dey</a></span>, <span><a href="/author/shital-shah/">Shital Shah</a></span>, <span><a href="/author/sebastien-bubeck/">Sebastien Bubeck</a></span>
+  <span><a href="/author/">Yuhong Li</a></span>, <span><a href="/author/">Tianle Cai</a></span>, <span><a href="/author/yi-zhang/">Yi Zhang</a></span>, <span><a href="/author/deming-chen/">Deming Chen</a></span>, <span><a href="/author/debadeepta-dey/">Debadeepta Dey</a></span>
   </div>
   
   
@@ -1836,7 +1838,7 @@
     
       
     
-    June 2021
+    October 2022
   </span>
   
 
@@ -1844,7 +1846,7 @@
   <span class="middot-divider"></span>
   <span class="pub-publication">
     
-      AxXiv
+      <em>ArXiv</em>
     
   </span>
   
@@ -1866,15 +1868,19 @@
   
   
   
-  <a href="/publication/dey-2021-fear/">
-      <img src="/publication/dey-2021-fear/featured_hua8a6f0b28fc1b203d94c091f8e26d95b_117022_918x517_fill_q90_lanczos_smart1_3.png" class="article-banner" alt="">
+  <a href="/publication/cai-2022-sgconv/">
+      <img src="/publication/cai-2022-sgconv/featured_hu7bfc4540802420f4cecd460bb31cbb2d_59978_918x517_fill_q90_lanczos_smart1_2.png" class="article-banner" alt="">
   </a>
   
 
   <h3 class="article-title mb-1 mt-3">
-    <a href="/publication/dey-2021-fear/">FEAR: Ranking Architectures by their Feature Extraction Capabilities</a>
+    <a href="/publication/cai-2022-sgconv/">What Makes Convolutional Models Great on Long Sequence Modeling?</a>
   </h3>
 
+  
+  <div class="article-style">
+    <p>Convolutional models have been widely used in multiple domains. However, most existing models only use local convolution, making the model unable to handle long-range dependency efficiently. Attention overcomes this problem by aggregating global information based on the pair-wise attention score but also makes the computational complexity quadratic to the sequence length. Recently, Gu et al. [2021a] proposed a model called S4 inspired by the state space model. S4 can be efficiently implemented as a global convolutional model whose kernel size equals the input sequence length. With Fast Fourier Transform, S4 can model much longer sequences than Transformers and achieve significant gains over SoTA on several long-range tasks. Despite its empirical success, S4 is involved. It requires sophisticated parameterization and initialization schemes that combine the wisdom from several prior works. As a result, S4 is less intuitive and hard to use for researchers with limited prior knowledge. Here we aim to demystify S4 and extract basic principles that contribute to the success of S4 as a global convolutional model. We focus on the structure of the convolution kernel and identify two critical but intuitive principles enjoyed by S4 that are sufficient to make up an effective global convolutional model: 1) The parameterization of the convolutional kernel needs to be efficient in the sense that the number of parameters should scale sub-linearly with sequence length. 2) The kernel needs to satisfy a decaying structure that the weights for convolving with closer neighbors are larger than the more distant ones. Based on the two principles, we propose a simple yet effective convolutional model called Structured Global Convolution (SGConv). SGConv exhibits strong empirical performance over several tasks: 1) With faster speed, SGConv surpasses S4 on Long Range Arena and Speech Command datasets. 2) When plugging SGConv into standard language and vision models, it shows the potential to improve both efficiency and performance.</p>
+  </div>
   
 
   
@@ -1894,28 +1900,153 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2106.04010" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/pdf/2210.09298.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/dey-2021-fear/cite.bib">
+        data-filename="/publication/cai-2022-sgconv/cite.bib">
   Cite
 </button>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
   
+
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+<div class="card-simple">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span><a href="/author/">Mojan Javaheripi</a></span>, <span><a href="/author/gustavo-h.-de-rosa/">Gustavo H. de Rosa</a></span>, <span><a href="/author/subhabrata-mukherjee/">Subhabrata Mukherjee</a></span>, <span><a href="/author/shital-shah/">Shital Shah</a></span>, <span><a href="/author/tomasz-l.-religa/">Tomasz L. Religa</a></span>, <span><a href="/author/caio-c.-t.-mendes/">Caio C. T. Mendes</a></span>, <span><a href="/author/sebastien-bubeck/">Sebastien Bubeck</a></span>, <span><a href="/author/farinaz-koushanfar/">Farinaz Koushanfar</a></span>, <span><a href="/author/debadeepta-dey/">Debadeepta Dey</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    March 2022
+  </span>
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+      <em>NeurIPS</em>
+    
+  </span>
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+  
+  <a href="/publication/javaheripi-2022-lts/">
+      <img src="/publication/javaheripi-2022-lts/featured_hu2e8cc46ba93da94a273074b93bcc58d0_105005_918x517_fill_q90_lanczos_smart1_2.png" class="article-banner" alt="">
+  </a>
+  
+
+  <h3 class="article-title mb-1 mt-3">
+    <a href="/publication/javaheripi-2022-lts/">LiteTransformerSearch: Training-free Neural Architecture Search for Efficient Language Models</a>
+  </h3>
+
+  
+  <div class="article-style">
+    <p>The Transformer architecture is ubiquitously used as the building block of large-scale autoregressive language models. However, finding architectures with the optimal trade-off between task performance (perplexity) and hardware constraints like peak memory utilization and latency is non-trivial. This is exacerbated by the proliferation of various hardware. We leverage the somewhat surprising empirical observation that the number of decoder parameters in autoregressive Transformers has a high rank correlation with task performance, irrespective of the architecture topology. This observation organically induces a simple Neural Architecture Search (NAS) algorithm that uses decoder parameters as a proxy for perplexity without need for any model training. The search phase of our training-free algorithm, dubbed Lightweight Transformer Search (LTS), can be run directly on target devices since it does not require GPUs. Using on-target-device measurements, LTS extracts the Pareto-frontier of perplexity versus any hardware performance cost. We evaluate LTS on diverse devices from ARM CPUs to NVIDIA GPUs and two popular autoregressive Transformer backbones: GPT-2 and Transformer-XL. Results show that the perplexity of 16-layer GPT-2 and Transformer-XL can be achieved with up to 1.5x, 2.5x faster runtime and 1.2x, 2.0x lower peak memory utilization. When evaluated in zero and one-shot settings, LTS Pareto-frontier models achieve higher average accuracy compared to the 350M parameter OPT across 14 tasks, with up to 1.6x lower latency. LTS extracts the Pareto-frontier in under 3 hours while running on a commodity laptop. We effectively remove the carbon footprint of hundreds of GPU hours of training during search, offering a strong simple baseline for future NAS methods in autoregressive language modeling.</p>
+  </div>
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/microsoft/archai/tree/fear_ranking" target="_blank" rel="noopener">
-  Code
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2203.02094" target="_blank" rel="noopener">
+  PDF
 </a>
 
 
 
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/javaheripi-2022-lts/cite.bib">
+  Cite
+</button>
 
 
 
@@ -1926,21 +2057,9 @@
 
 
 
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2106.04010" target="_blank" rel="noopener">
-    
-    ArXiv
-  </a>
+
+
+
 
 
   </div>
@@ -2001,7 +2120,7 @@
   <span class="middot-divider"></span>
   <span class="pub-publication">
     
-      <em>NeuRIPS</em>
+      <em>NeurIPS</em>
     
   </span>
   
@@ -2024,7 +2143,7 @@
   
   
   <a href="/publication/hu-2019-efficient/">
-      <img src="/publication/hu-2019-efficient/featured_hud05f87adcbd2afe26125a13da6ccbedd_73244_918x517_fill_q90_lanczos_smart1_3.png" class="article-banner" alt="">
+      <img src="/publication/hu-2019-efficient/featured_hud05f87adcbd2afe26125a13da6ccbedd_73244_918x517_fill_q90_lanczos_smart1_2.png" class="article-banner" alt="">
   </a>
   
 
@@ -2169,7 +2288,7 @@
   
   
   <a href="/publication/choudhury-2018-data/">
-      <img src="/publication/choudhury-2018-data/featured_hua9f4cba4f59dceb746ce49663766c37c_548393_918x517_fill_q90_lanczos_smart1_3.png" class="article-banner" alt="">
+      <img src="/publication/choudhury-2018-data/featured_hua9f4cba4f59dceb746ce49663766c37c_548393_918x517_fill_q90_lanczos_smart1_2.png" class="article-banner" alt="">
   </a>
   
 
@@ -2306,7 +2425,7 @@
   
   
   <a href="/publication/shah-2017-airsim/">
-      <img src="/publication/shah-2017-airsim/featured_hu0ca52fdd463dfc4e943adb64efe4249f_568352_918x517_fill_q90_lanczos_smart1_3.png" class="article-banner" alt="">
+      <img src="/publication/shah-2017-airsim/featured_hu0ca52fdd463dfc4e943adb64efe4249f_568352_918x517_fill_q90_lanczos_smart1_2.png" class="article-banner" alt="">
   </a>
   
 
@@ -2459,7 +2578,7 @@
   
   
   <a href="/publication/dey-thesis-2015/">
-      <img src="/publication/dey-thesis-2015/featured_hu1a123cf20b2970c9bab21c493512d181_205523_918x517_fill_q90_lanczos_smart1_3.png" class="article-banner" alt="">
+      <img src="/publication/dey-thesis-2015/featured_hu1a123cf20b2970c9bab21c493512d181_205523_918x517_fill_q90_lanczos_smart1_2.png" class="article-banner" alt="">
   </a>
   
 
@@ -2596,7 +2715,7 @@
   
   
   <a href="/publication/deycontextual/">
-      <img src="/publication/deycontextual/featured_hu2802fb41f7e8267a16f8059c5983ca8e_149896_918x517_fill_q90_lanczos_smart1_3.png" class="article-banner" alt="">
+      <img src="/publication/deycontextual/featured_hu2802fb41f7e8267a16f8059c5983ca8e_149896_918x517_fill_q90_lanczos_smart1_2.png" class="article-banner" alt="">
   </a>
   
 
@@ -2731,7 +2850,7 @@
   
   
   <a href="/publication/dey-2011-cascaded/">
-      <img src="/publication/dey-2011-cascaded/featured_hu4963a9eae809471a128b7c1da533246c_979963_918x517_fill_q90_lanczos_smart1_3.png" class="article-banner" alt="">
+      <img src="/publication/dey-2011-cascaded/featured_hu4963a9eae809471a128b7c1da533246c_979963_918x517_fill_q90_lanczos_smart1_2.png" class="article-banner" alt="">
   </a>
   
 
@@ -2922,6 +3041,324 @@
 
 
 
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/publication/cai-2022-sgconv/" >What Makes Convolutional Models Great on Long Sequence Modeling?</a>
+    </h3>
+
+    
+    <div class="article-style">
+      Convolutional models have been widely used in multiple domains. However, most existing models only use local convolution, making the …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  
+  <span><a href="/author/">Yuhong Li</a></span>, <span><a href="/author/">Tianle Cai</a></span>, <span><a href="/author/yi-zhang/">Yi Zhang</a></span>, <span><a href="/author/deming-chen/">Deming Chen</a></span>, <span><a href="/author/debadeepta-dey/">Debadeepta Dey</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/pdf/2210.09298.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/cai-2022-sgconv/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/cai-2022-sgconv/" >
+      <img src="/publication/cai-2022-sgconv/featured_hu7bfc4540802420f4cecd460bb31cbb2d_59978_150x0_resize_lanczos_2.png" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/publication/xu-2022-autodistil/" >AutoDistil: Few-shot Task-agnostic Neural Architecture Search for Distilling Large Language Models</a>
+    </h3>
+
+    
+    <div class="article-style">
+      Knowledge distillation (KD) methods compress large models into smaller students with manually-designed student architectures given …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  
+  <span><a href="/author/dongkuan-xu/">Dongkuan Xu</a></span>, <span><a href="/author/subhabrata-subho-mukherjee/">Subhabrata (Subho) Mukherjee</a></span>, <span><a href="/author/xiaodong-liu/">Xiaodong Liu</a></span>, <span><a href="/author/debadeepta-dey/">Debadeepta Dey</a></span>, <span><a href="/author/wenhui-wang/">Wenhui Wang</a></span>, <span><a href="/author/xiang-zhang/">Xiang Zhang</a></span>, <span><a href="/author/ahmed-h.-awadallah/">Ahmed H. Awadallah</a></span>, <span><a href="/author/jianfeng-gao/">Jianfeng Gao</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/pdf/2201.12507.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/xu-2022-autodistil/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/xu-2022-autodistil/" >
+      <img src="/publication/xu-2022-autodistil/featured_huf93400236a170b7207a0dbb6004de4e4_112429_150x0_resize_lanczos_2.png" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/publication/javaheripi-2022-lts/" >LiteTransformerSearch: Training-free Neural Architecture Search for Efficient Language Models</a>
+    </h3>
+
+    
+    <div class="article-style">
+      The Transformer architecture is ubiquitously used as the building block of large-scale autoregressive language models. However, finding …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  
+  <span><a href="/author/">Mojan Javaheripi</a></span>, <span><a href="/author/gustavo-h.-de-rosa/">Gustavo H. de Rosa</a></span>, <span><a href="/author/subhabrata-mukherjee/">Subhabrata Mukherjee</a></span>, <span><a href="/author/shital-shah/">Shital Shah</a></span>, <span><a href="/author/tomasz-l.-religa/">Tomasz L. Religa</a></span>, <span><a href="/author/caio-c.-t.-mendes/">Caio C. T. Mendes</a></span>, <span><a href="/author/sebastien-bubeck/">Sebastien Bubeck</a></span>, <span><a href="/author/farinaz-koushanfar/">Farinaz Koushanfar</a></span>, <span><a href="/author/debadeepta-dey/">Debadeepta Dey</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2203.02094" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/javaheripi-2022-lts/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/javaheripi-2022-lts/" >
+      <img src="/publication/javaheripi-2022-lts/featured_hu2e8cc46ba93da94a273074b93bcc58d0_105005_150x0_resize_lanczos_2.png" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
 
 <div class="media stream-item">
   <div class="media-body">
@@ -3021,7 +3458,7 @@
     
     
     <a href="/publication/dey-2021-fear/" >
-      <img src="/publication/dey-2021-fear/featured_hua8a6f0b28fc1b203d94c091f8e26d95b_117022_150x0_resize_lanczos_3.png" alt="">
+      <img src="/publication/dey-2021-fear/featured_hua8a6f0b28fc1b203d94c091f8e26d95b_117022_150x0_resize_lanczos_2.png" alt="">
     </a>
     
   </div>
@@ -3121,7 +3558,7 @@
     
     
     <a href="/publication/lin-2020-recipe/" >
-      <img src="/publication/lin-2020-recipe/featured_huf09c9cfcdf3a25eb9be8076e4e712c52_127887_150x0_resize_lanczos_3.png" alt="">
+      <img src="/publication/lin-2020-recipe/featured_huf09c9cfcdf3a25eb9be8076e4e712c52_127887_150x0_resize_lanczos_2.png" alt="">
     </a>
     
   </div>
@@ -3221,7 +3658,7 @@
     
     
     <a href="/publication/ramakrishnan-2020-blind/" >
-      <img src="/publication/ramakrishnan-2020-blind/featured_hueb1042478940e05bdfc5c3794441429b_224363_150x0_resize_lanczos_3.png" alt="">
+      <img src="/publication/ramakrishnan-2020-blind/featured_hueb1042478940e05bdfc5c3794441429b_224363_150x0_resize_lanczos_2.png" alt="">
     </a>
     
   </div>
@@ -3327,7 +3764,7 @@
     
     
     <a href="/publication/modi-2019-metareasoning/" >
-      <img src="/publication/modi-2019-metareasoning/featured_hube3f93db0295a9e6d982c9ccc34462e6_95736_150x0_resize_lanczos_3.png" alt="">
+      <img src="/publication/modi-2019-metareasoning/featured_hube3f93db0295a9e6d982c9ccc34462e6_95736_150x0_resize_lanczos_2.png" alt="">
     </a>
     
   </div>
@@ -3441,7 +3878,7 @@
     
     
     <a href="/publication/hu-2019-efficient/" >
-      <img src="/publication/hu-2019-efficient/featured_hud05f87adcbd2afe26125a13da6ccbedd_73244_150x0_resize_lanczos_3.png" alt="">
+      <img src="/publication/hu-2019-efficient/featured_hud05f87adcbd2afe26125a13da6ccbedd_73244_150x0_resize_lanczos_2.png" alt="">
     </a>
     
   </div>
@@ -3547,7 +3984,7 @@
     
     
     <a href="/publication/hu-2017-anytime/" >
-      <img src="/publication/hu-2017-anytime/featured_huf9355a3a3cb54eeb68607d1c92bf0f28_82234_150x0_resize_lanczos_3.png" alt="">
+      <img src="/publication/hu-2017-anytime/featured_huf9355a3a3cb54eeb68607d1c92bf0f28_82234_150x0_resize_lanczos_2.png" alt="">
     </a>
     
   </div>
@@ -3653,7 +4090,7 @@
     
     
     <a href="/publication/ramakrishnan-2019-overcoming/" >
-      <img src="/publication/ramakrishnan-2019-overcoming/featured_hue2ce753253298f62f678583ea2bc843d_84896_150x0_resize_lanczos_3.png" alt="">
+      <img src="/publication/ramakrishnan-2019-overcoming/featured_hue2ce753253298f62f678583ea2bc843d_84896_150x0_resize_lanczos_2.png" alt="">
     </a>
     
   </div>
@@ -3862,7 +4299,7 @@
     
     
     <a href="/publication/nguyen-2018-vision/" >
-      <img src="/publication/nguyen-2018-vision/featured_hu0d16d721e3b73334f69e719f560b65c7_92977_150x0_resize_lanczos_3.png" alt="">
+      <img src="/publication/nguyen-2018-vision/featured_hu0d16d721e3b73334f69e719f560b65c7_92977_150x0_resize_lanczos_2.png" alt="">
     </a>
     
   </div>
@@ -4057,7 +4494,7 @@
     
     
     <a href="/publication/choudhury-2018-data/" >
-      <img src="/publication/choudhury-2018-data/featured_hua9f4cba4f59dceb746ce49663766c37c_548393_150x0_resize_lanczos_3.png" alt="">
+      <img src="/publication/choudhury-2018-data/featured_hua9f4cba4f59dceb746ce49663766c37c_548393_150x0_resize_lanczos_2.png" alt="">
     </a>
     
   </div>
@@ -4163,7 +4600,7 @@
     
     
     <a href="/publication/ramakrishnan-2018-discovering/" >
-      <img src="/publication/ramakrishnan-2018-discovering/featured_hu97433ce0cc6631328b90a34c26787b5c_23662_150x0_resize_lanczos_3.png" alt="">
+      <img src="/publication/ramakrishnan-2018-discovering/featured_hu97433ce0cc6631328b90a34c26787b5c_23662_150x0_resize_lanczos_2.png" alt="">
     </a>
     
   </div>
@@ -4269,7 +4706,7 @@
     
     
     <a href="/publication/hepp-2018-learn/" >
-      <img src="/publication/hepp-2018-learn/featured_hud3ab6f91fa9bb7406349c0ffeae1b675_158049_150x0_resize_lanczos_3.png" alt="">
+      <img src="/publication/hepp-2018-learn/featured_hud3ab6f91fa9bb7406349c0ffeae1b675_158049_150x0_resize_lanczos_2.png" alt="">
     </a>
     
   </div>
@@ -4464,129 +4901,7 @@
     
     
     <a href="/publication/roberts-2017-submodular/" >
-      <img src="/publication/roberts-2017-submodular/featured_hue87bab9261443b8f6f579f5a03441656_1562344_150x0_resize_lanczos_3.png" alt="">
-    </a>
-    
-  </div>
-</div>
-
-      
-    
-      
-        
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/publication/shah-2017-airsim/" >Airsim: High-fidelity visual and physical simulation for autonomous vehicles</a>
-    </h3>
-
-    
-    <div class="article-style">
-      Developing and testing algorithms for autonomous vehicles in real world is an expensive and time consuming process. Also, in order to …
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
-
-  
-  <span><a href="/author/shital-shah/">Shital Shah</a></span>, <span><a href="/author/debadeepta-dey/">Debadeepta Dey</a></span>, <span><a href="/author/chris-lovett/">Chris Lovett</a></span>, <span><a href="/author/ashish-kapoor/">Ashish Kapoor</a></span>
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/1705.05065" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/shah-2017-airsim/cite.bib">
-  Cite
-</button>
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/microsoft/AirSim" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.youtube.com/watch?v=-WfTr1-OBGQ&amp;feature=youtu.be" target="_blank" rel="noopener">
-  Video
-</a>
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/publication/shah-2017-airsim/" >
-      <img src="/publication/shah-2017-airsim/featured_hu0ca52fdd463dfc4e943adb64efe4249f_568352_150x0_resize_lanczos_3.png" alt="">
+      <img src="/publication/roberts-2017-submodular/featured_hue87bab9261443b8f6f579f5a03441656_1562344_150x0_resize_lanczos_2.png" alt="">
     </a>
     
   </div>
@@ -4692,7 +5007,107 @@
     
     
     <a href="/publication/choudhury-2017-adaptive/" >
-      <img src="/publication/choudhury-2017-adaptive/featured_huf479b64ac79ee33fb9c76307920b2116_58162_150x0_resize_lanczos_3.png" alt="">
+      <img src="/publication/choudhury-2017-adaptive/featured_huf479b64ac79ee33fb9c76307920b2116_58162_150x0_resize_lanczos_2.png" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/publication/rozantsev-2017-flight/" >Flight dynamics-based recovery of a UAV trajectory using ground cameras</a>
+    </h3>
+
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  
+  <span><a href="/author/artem-rozantsev/">Artem Rozantsev</a></span>, <span><a href="/author/sudipta-n-sinha/">Sudipta N Sinha</a></span>, <span><a href="/author/debadeepta-dey/">Debadeepta Dey</a></span>, <span><a href="/author/pascal-fua/">Pascal Fua</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/pdf/1612.00192" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/rozantsev-2017-flight/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/rozantsev-2017-flight/" >
+      <img src="/publication/rozantsev-2017-flight/featured_hu0e85634b29ccae6b2c044c640f55b979_835194_150x0_resize_lanczos_2.png" alt="">
     </a>
     
   </div>
@@ -4798,7 +5213,7 @@
     
     
     <a href="/publication/choudhury-2017-learning/" >
-      <img src="/publication/choudhury-2017-learning/featured_hu65c9cad99c471a11a557ed9181914203_89862_150x0_resize_lanczos_3.png" alt="">
+      <img src="/publication/choudhury-2017-learning/featured_hu65c9cad99c471a11a557ed9181914203_89862_150x0_resize_lanczos_2.png" alt="">
     </a>
     
   </div>
@@ -4892,7 +5307,7 @@
     
     
     <a href="/publication/sun-2017-no/" >
-      <img src="/publication/sun-2017-no/featured_huc382746a208209bddd480672160bc6d3_58068_150x0_resize_lanczos_3.png" alt="">
+      <img src="/publication/sun-2017-no/featured_huc382746a208209bddd480672160bc6d3_58068_150x0_resize_lanczos_2.png" alt="">
     </a>
     
   </div>
@@ -5018,14 +5433,20 @@
 
 
 
+  
+
 
 <div class="media stream-item">
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="/publication/rozantsev-2017-flight/" >Flight dynamics-based recovery of a UAV trajectory using ground cameras</a>
+      <a href="/publication/shah-2017-airsim/" >Airsim: High-fidelity visual and physical simulation for autonomous vehicles</a>
     </h3>
 
+    
+    <div class="article-style">
+      Developing and testing algorithms for autonomous vehicles in real world is an expensive and time consuming process. Also, in order to …
+    </div>
     
 
     <div class="stream-meta article-metadata">
@@ -5037,7 +5458,7 @@
         
 
   
-  <span><a href="/author/artem-rozantsev/">Artem Rozantsev</a></span>, <span><a href="/author/sudipta-n-sinha/">Sudipta N Sinha</a></span>, <span><a href="/author/debadeepta-dey/">Debadeepta Dey</a></span>, <span><a href="/author/pascal-fua/">Pascal Fua</a></span>
+  <span><a href="/author/shital-shah/">Shital Shah</a></span>, <span><a href="/author/debadeepta-dey/">Debadeepta Dey</a></span>, <span><a href="/author/chris-lovett/">Chris Lovett</a></span>, <span><a href="/author/ashish-kapoor/">Ashish Kapoor</a></span>
       </div>
       
     </div>
@@ -5059,18 +5480,25 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/pdf/1612.00192" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/1705.05065" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/rozantsev-2017-flight/cite.bib">
+        data-filename="/publication/shah-2017-airsim/cite.bib">
   Cite
 </button>
 
 
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/microsoft/AirSim" target="_blank" rel="noopener">
+  Code
+</a>
 
 
 
@@ -5079,6 +5507,15 @@
 
 
 
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.youtube.com/watch?v=-WfTr1-OBGQ&amp;feature=youtu.be" target="_blank" rel="noopener">
+  Video
+</a>
 
 
 
@@ -5092,8 +5529,8 @@
     
     
     
-    <a href="/publication/rozantsev-2017-flight/" >
-      <img src="/publication/rozantsev-2017-flight/featured_hu0e85634b29ccae6b2c044c640f55b979_835194_150x0_resize_lanczos_3.png" alt="">
+    <a href="/publication/shah-2017-airsim/" >
+      <img src="/publication/shah-2017-airsim/featured_hu0ca52fdd463dfc4e943adb64efe4249f_568352_150x0_resize_lanczos_2.png" alt="">
     </a>
     
   </div>
@@ -5207,7 +5644,7 @@
     
     
     <a href="/publication/dey-2016-vision/" >
-      <img src="/publication/dey-2016-vision/featured_huf935a7176001ccdd6d60c39b74faa521_450692_150x0_resize_lanczos_3.png" alt="">
+      <img src="/publication/dey-2016-vision/featured_huf935a7176001ccdd6d60c39b74faa521_450692_150x0_resize_lanczos_2.png" alt="">
     </a>
     
   </div>
@@ -5313,7 +5750,7 @@
     
     
     <a href="/publication/dey-thesis-2015/" >
-      <img src="/publication/dey-thesis-2015/featured_hu1a123cf20b2970c9bab21c493512d181_205523_150x0_resize_lanczos_3.png" alt="">
+      <img src="/publication/dey-thesis-2015/featured_hu1a123cf20b2970c9bab21c493512d181_205523_150x0_resize_lanczos_2.png" alt="">
     </a>
     
   </div>
@@ -5419,7 +5856,7 @@
     
     
     <a href="/publication/dey-2015-predicting/" >
-      <img src="/publication/dey-2015-predicting/featured_hu3028cb972c3e1456f8dda8762c07ce74_358780_150x0_resize_lanczos_3.png" alt="">
+      <img src="/publication/dey-2015-predicting/featured_hu3028cb972c3e1456f8dda8762c07ce74_358780_150x0_resize_lanczos_2.png" alt="">
     </a>
     
   </div>
@@ -5525,7 +5962,7 @@
     
     
     <a href="/publication/debadeepta-2014-gauss/" >
-      <img src="/publication/debadeepta-2014-gauss/featured_hu71951f7681bfba098b303bbe246faaee_720875_150x0_resize_lanczos_3.png" alt="">
+      <img src="/publication/debadeepta-2014-gauss/featured_hu71951f7681bfba098b303bbe246faaee_720875_150x0_resize_lanczos_2.png" alt="">
     </a>
     
   </div>
@@ -5732,7 +6169,7 @@
     
     
     <a href="/publication/ross-2013-learning/" >
-      <img src="/publication/ross-2013-learning/featured_huc4091d8f5a8a16c82e3fae829c47e6dd_534770_150x0_resize_lanczos_3.png" alt="">
+      <img src="/publication/ross-2013-learning/featured_huc4091d8f5a8a16c82e3fae829c47e6dd_534770_150x0_resize_lanczos_2.png" alt="">
     </a>
     
   </div>
@@ -5838,7 +6275,7 @@
     
     
     <a href="/publication/dey-2012-classification/" >
-      <img src="/publication/dey-2012-classification/featured_huc8c0206b789532b930574b343fdd81ab_444257_150x0_resize_lanczos_3.png" alt="">
+      <img src="/publication/dey-2012-classification/featured_huc8c0206b789532b930574b343fdd81ab_444257_150x0_resize_lanczos_2.png" alt="">
     </a>
     
   </div>
@@ -5944,7 +6381,7 @@
     
     
     <a href="/publication/deycontextual/" >
-      <img src="/publication/deycontextual/featured_hu2802fb41f7e8267a16f8059c5983ca8e_149896_150x0_resize_lanczos_3.png" alt="">
+      <img src="/publication/deycontextual/featured_hu2802fb41f7e8267a16f8059c5983ca8e_149896_150x0_resize_lanczos_2.png" alt="">
     </a>
     
   </div>
@@ -6060,7 +6497,7 @@
     
     
     <a href="/publication/dey-2011-cascaded/" >
-      <img src="/publication/dey-2011-cascaded/featured_hu4963a9eae809471a128b7c1da533246c_979963_150x0_resize_lanczos_3.png" alt="">
+      <img src="/publication/dey-2011-cascaded/featured_hu4963a9eae809471a128b7c1da533246c_979963_150x0_resize_lanczos_2.png" alt="">
     </a>
     
   </div>
@@ -6166,7 +6603,7 @@
     
     
     <a href="/publication/dey-2011-efficient/" >
-      <img src="/publication/dey-2011-efficient/featured_hu062ac18c3871e74513360efd2a4030b3_261391_150x0_resize_lanczos_3.png" alt="">
+      <img src="/publication/dey-2011-efficient/featured_hu062ac18c3871e74513360efd2a4030b3_261391_150x0_resize_lanczos_2.png" alt="">
     </a>
     
   </div>
@@ -6266,7 +6703,7 @@
     
     
     <a href="/publication/dey-2010-passive/" >
-      <img src="/publication/dey-2010-passive/featured_hube2928b456621501e2c4f701a56411f7_95536_150x0_resize_lanczos_3.png" alt="">
+      <img src="/publication/dey-2010-passive/featured_hube2928b456621501e2c4f701a56411f7_95536_150x0_resize_lanczos_2.png" alt="">
     </a>
     
   </div>
