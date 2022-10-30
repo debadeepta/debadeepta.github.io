@@ -5,28 +5,12 @@
     <link>https://debadeepta.com/author/</link>
       <atom:link href="https://debadeepta.com/author/index.xml" rel="self" type="application/rss+xml" />
     <description>Debadeepta Dey</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Debadeepta Dey 2021</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Debadeepta Dey 2022</copyright>
     <image>
       <url>https://debadeepta.com/img/headshot.jpg</url>
       <title>Debadeepta Dey</title>
       <link>https://debadeepta.com/author/</link>
     </image>
-    
-    <item>
-      <title>Efficient forward architecture search</title>
-      <link>https://debadeepta.com/publication/hu-2019-efficient/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.com/publication/hu-2019-efficient/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Anytime neural networks via joint optimization of auxiliary losses</title>
-      <link>https://debadeepta.com/publication/hu-2017-anytime/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.com/publication/hu-2017-anytime/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
