@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tian Yu Liu | Debadeepta Dey</title>
+    <link>https://debadeepta.com/author/tian-yu-liu/</link>
+      <atom:link href="https://debadeepta.com/author/tian-yu-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tian Yu Liu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Debadeepta Dey 2024</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://debadeepta.com/img/headshot.jpg</url>
+      <title>Tian Yu Liu</title>
+      <link>https://debadeepta.com/author/tian-yu-liu/</link>
+    </image>
+    
+    <item>
+      <title>Contextual Sequence Prediction with Application to Control Library Optimization</title>
+      <link>https://debadeepta.com/publication/deycontextual/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.com/publication/deycontextual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Optimization of Control Libraries</title>
+      <link>https://debadeepta.com/publication/dey-2011-efficient/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.com/publication/dey-2011-efficient/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

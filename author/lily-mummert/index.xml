@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lily Mummert | Debadeepta Dey</title>
+    <link>https://debadeepta.com/author/lily-mummert/</link>
+      <atom:link href="https://debadeepta.com/author/lily-mummert/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lily Mummert</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Debadeepta Dey 2024</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://debadeepta.com/img/headshot.jpg</url>
+      <title>Lily Mummert</title>
+      <link>https://debadeepta.com/author/lily-mummert/</link>
+    </image>
+    
+    <item>
+      <title>Classification of plant structures from uncalibrated image sequences</title>
+      <link>https://debadeepta.com/publication/dey-2012-classification/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.com/publication/dey-2012-classification/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

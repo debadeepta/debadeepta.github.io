@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sudipta N Sinha | Debadeepta Dey</title>
+    <link>https://debadeepta.com/author/sudipta-n-sinha/</link>
+      <atom:link href="https://debadeepta.com/author/sudipta-n-sinha/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sudipta N Sinha</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Debadeepta Dey 2024</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://debadeepta.com/img/headshot.jpg</url>
+      <title>Sudipta N Sinha</title>
+      <link>https://debadeepta.com/author/sudipta-n-sinha/</link>
+    </image>
+    
+    <item>
+      <title>Learn-to-score: Efficient 3d scene exploration by predicting view utility</title>
+      <link>https://debadeepta.com/publication/hepp-2018-learn/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.com/publication/hepp-2018-learn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flight dynamics-based recovery of a UAV trajectory using ground cameras</title>
+      <link>https://debadeepta.com/publication/rozantsev-2017-flight/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.com/publication/rozantsev-2017-flight/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

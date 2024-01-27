@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andreas Wendel | Debadeepta Dey</title>
+    <link>https://debadeepta.com/author/andreas-wendel/</link>
+      <atom:link href="https://debadeepta.com/author/andreas-wendel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andreas Wendel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Debadeepta Dey 2024</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://debadeepta.com/img/headshot.jpg</url>
+      <title>Andreas Wendel</title>
+      <link>https://debadeepta.com/author/andreas-wendel/</link>
+    </image>
+    
+    <item>
+      <title>Learning monocular reactive uav control in cluttered natural environments</title>
+      <link>https://debadeepta.com/publication/ross-2013-learning/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.com/publication/ross-2013-learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

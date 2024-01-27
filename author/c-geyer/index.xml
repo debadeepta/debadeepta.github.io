@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C Geyer | Debadeepta Dey</title>
+    <link>https://debadeepta.com/author/c-geyer/</link>
+      <atom:link href="https://debadeepta.com/author/c-geyer/index.xml" rel="self" type="application/rss+xml" />
+    <description>C Geyer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Debadeepta Dey 2024</copyright><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://debadeepta.com/img/headshot.jpg</url>
+      <title>C Geyer</title>
+      <link>https://debadeepta.com/author/c-geyer/</link>
+    </image>
+    
+    <item>
+      <title>Prototype sense-and-avoid system for UAVs</title>
+      <link>https://debadeepta.com/publication/geyer-2009-prototype/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.com/publication/geyer-2009-prototype/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

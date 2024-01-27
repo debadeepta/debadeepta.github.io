@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Besmira Nushi | Debadeepta Dey</title>
+    <link>https://debadeepta.com/author/besmira-nushi/</link>
+      <atom:link href="https://debadeepta.com/author/besmira-nushi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Besmira Nushi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Debadeepta Dey 2024</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://debadeepta.com/img/headshot.jpg</url>
+      <title>Besmira Nushi</title>
+      <link>https://debadeepta.com/author/besmira-nushi/</link>
+    </image>
+    
+    <item>
+      <title>Metareasoning in Modular Software Systems: On-the-Fly Configuration using Reinforcement Learning with Rich Contextual Representations</title>
+      <link>https://debadeepta.com/publication/modi-2019-metareasoning/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.com/publication/modi-2019-metareasoning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overcoming blind spots in the real world: Leveraging complementary abilities for joint execution</title>
+      <link>https://debadeepta.com/publication/ramakrishnan-2019-overcoming/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.com/publication/ramakrishnan-2019-overcoming/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
