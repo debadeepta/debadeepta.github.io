@@ -5,12 +5,36 @@
     <link>https://debadeepta.com/publication/</link>
       <atom:link href="https://debadeepta.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Debadeepta Dey 2022</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Debadeepta Dey 2024</copyright>
     <image>
       <url>https://debadeepta.com/img/headshot.jpg</url>
       <title>Publications</title>
       <link>https://debadeepta.com/publication/</link>
     </image>
+    
+    <item>
+      <title>What Makes Convolutional Models Great on Long Sequence Modeling?</title>
+      <link>https://debadeepta.com/publication/cai-2022-sgconv/</link>
+      <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.com/publication/cai-2022-sgconv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AutoDistil: Few-shot Task-agnostic Neural Architecture Search for Distilling Large Language Models</title>
+      <link>https://debadeepta.com/publication/xu-2022-autodistil/</link>
+      <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.com/publication/xu-2022-autodistil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LiteTransformerSearch: Training-free Neural Architecture Search for Efficient Language Models</title>
+      <link>https://debadeepta.com/publication/javaheripi-2022-lts/</link>
+      <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.com/publication/javaheripi-2022-lts/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>FEAR: Ranking Architectures by their Feature Extraction Capabilities</title>

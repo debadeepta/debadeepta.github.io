@@ -1,0 +1,9 @@
+@inproceedings{xu2022autodistil,
+author = {Xu, Dongkuan and Mukherjee, Subhabrata (Subho) and Liu, Xiaodong and Dey, Debadeepta and Wang, Wenhui and Zhang, Xiang and Awadallah, Ahmed H. and Gao, Jianfeng},
+title = {AutoDistil: Few-shot Task-agnostic Neural Architecture Search for Distilling Large Language Models},
+booktitle = {NeurIPS 2022},
+year = {2022},
+month = {December},
+abstract = {Knowledge distillation (KD) methods compress large models into smaller students with manually-designed student architectures given pre-specified computational cost. This requires several trials to find a viable student, and further repeating the process for each student or computational budget change. We use Neural Architecture Search (NAS) to automatically distill several compressed students with variable cost from a large model. Current works train a single SuperLM consisting of millions of subnetworks with weight-sharing, resulting in interference between subnetworks of different sizes. Our framework AutoDistil addresses above challenges with the following steps: (a) Incorporates inductive bias and heuristics to partition Transformer search space into K compact sub-spaces (K=3 for typical student sizes of base, small and tiny); (b) Trains one SuperLM for each sub-space using task-agnostic objective (e.g., self-attention distillation) with weight-sharing of students; (c) Lightweight search for the optimal student without re-training. Fully task-agnostic training and search allow students to be reused for fine-tuning on any downstream task. Experiments on GLUE benchmark against state-of-the-art KD and NAS methods demonstrate AutoDistil to outperform leading compression techniques with upto 2.7x reduction in computational cost and negligible loss in task performance.},
+url = {https://www.microsoft.com/en-us/research/publication/autodistil-few-shot-task-agnostic-neural-architecture-search-for-distilling-large-language-models/},
+}

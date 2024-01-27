@@ -5,7 +5,7 @@
     <link>https://debadeepta.com/author/</link>
       <atom:link href="https://debadeepta.com/author/index.xml" rel="self" type="application/rss+xml" />
     <description>Debadeepta Dey</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Debadeepta Dey 2022</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Debadeepta Dey 2024</copyright>
     <image>
       <url>https://debadeepta.com/img/headshot.jpg</url>
       <title>Debadeepta Dey</title>
@@ -13,18 +13,10 @@
     </image>
     
     <item>
-      <title>No-regret replanning under uncertainty</title>
-      <link>https://debadeepta.com/publication/sun-2017-no/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.com/publication/sun-2017-no/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Safety-aware algorithms for adversarial contextual bandit</title>
-      <link>https://debadeepta.com/publication/sun-2017-safety/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://debadeepta.com/publication/sun-2017-safety/</guid>
+      <title>What Makes Convolutional Models Great on Long Sequence Modeling?</title>
+      <link>https://debadeepta.com/publication/cai-2022-sgconv/</link>
+      <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://debadeepta.com/publication/cai-2022-sgconv/</guid>
       <description></description>
     </item>
     
