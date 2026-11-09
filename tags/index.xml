@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags | Debadeepta Dey</title>
-    <link>https://debadeepta.com/tags/</link>
-      <atom:link href="https://debadeepta.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Debadeepta Dey 2026</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://debadeepta.com/img/headshot.jpg</url>
-      <title>Tags</title>
-      <link>https://debadeepta.com/tags/</link>
-    </image>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Debadeepta Dey</title><link>https://debadeepta.com/tags/</link><description>Recent content in Tags on Debadeepta Dey</description><generator>Hugo</generator><language>en-US</language><copyright>© Debadeepta Dey {year}</copyright><lastBuildDate>Wed, 17 Apr 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://debadeepta.com/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Deep Learning</title><link>https://debadeepta.com/tag/deep-learning/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://debadeepta.com/tag/deep-learning/</guid><description/></item><item><title>Demo</title><link>https://debadeepta.com/tag/demo/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://debadeepta.com/tag/demo/</guid><description/></item><item><title>Academic</title><link>https://debadeepta.com/tag/academic/</link><pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate><guid>https://debadeepta.com/tag/academic/</guid><description/></item><item><title>开源</title><link>https://debadeepta.com/tag/%E5%BC%80%E6%BA%90/</link><pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate><guid>https://debadeepta.com/tag/%E5%BC%80%E6%BA%90/</guid><description/></item></channel></rss>
